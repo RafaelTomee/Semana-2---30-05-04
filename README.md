@@ -1,4 +1,4 @@
-# Semana-2---30-05-04 de Front-end na --UTFPR--
+# Semana-2---30-05-04 de Front-end na UTFPR
 
 Atividade - Crie uma página html seguindo o modelo das imagens abaixo
 
