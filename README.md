@@ -6,5 +6,5 @@ Atividade - Crie uma página html seguindo o modelo das imagens abaixo
 
 Resultado: https://rafaeltomee.github.io/Semana-2---30-05-04/
 
-![Uploading image.png…]()
+
 
